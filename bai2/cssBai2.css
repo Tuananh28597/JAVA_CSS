@@ -1,0 +1,21 @@
+h1{
+    color: crimson;
+    font-family: "Andale Mono";
+    text-align: center;
+    font-size: 300%;
+}
+h2{
+    color: black;
+    font-family: Courier ;
+    text-align: center;
+}
+a{
+    font-size: 120%;
+    color: saddlebrown;
+    font-family: "Brush Script MT" ;
+}
+h5{
+    text-align: left;
+    font-family: "Apple LiGothic" ;
+    font-size: 140%;
+}
